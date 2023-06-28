@@ -1,14 +1,14 @@
 # ecom-apiE-Commerce-API
    ABOUT
 ----------------
-<--This is an E-commerce API made using Node.Js & MongoDB.
-STEPS TO USE THE API:
+This is an E-commerce API made using Node.Js & MongoDB.
+#STEPS TO USE THE API:
 
--1.run "npm init" command on terminal in this projects directory
--2.start the server using node app.js
--3.Open postman
--4.Make a GET request on localhost:3000/products
--5.The products should be visible -->
+#1.run "npm init" command on terminal in this projects directory
+#2.start the server using node app.js
+#3.Open postman
+#4.Make a GET request on localhost:3000/products
+#5.The products should be visible
 
 STEPS TO CREATE A NEW PRODUCT:
 
